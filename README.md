@@ -8,3 +8,4 @@
 ## Blog
 - [Seesion 1 - Azure Cloud Computing](https://techshare4.wordpress.com/2023/01/26/cloud-computing/)
 - [Seesion 2 - Azure Compute Services](https://techshare4.wordpress.com/2023/01/29/azure-compute-services/)
+- [Session 3 - Azure Storage Services](https://techshare4.wordpress.com/2023/02/05/azure-storage-services/)
